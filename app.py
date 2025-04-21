@@ -1,5 +1,3 @@
-# Added for SafeDep Intern Assignment - Atharva
-
 from flask import Flask, request, jsonify
 import sqlite3
 
@@ -41,6 +39,3 @@ if __name__ == '__main__':
     init_db()
     app.run(host='0.0.0.0', port=8080)
 
-# adding comment to solve a problem
-# adding comment to solve a problem
-# adding comment to solve a problem
